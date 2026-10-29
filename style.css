@@ -1,0 +1,24 @@
+/* Header styling */
+header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Button styling */
+button {
+    background-color: navy;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Footer styling */
+footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
